@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Broadcast Receiver App</string>
+    <string name="txt_view">Ini aplikasi sms receiver</string>
+    <string name="txt_download">Download file</string>
+    <string name="txt_from">Coming from</string>
+    <string name="txt_message">Hey, you are finally awake</string>
+    <string name="txt_close">Close</string>
+    <string name="txt_check">Check Permission</string>
+    <string name="txt_incoming">Incoming Message</string>
+</resources>

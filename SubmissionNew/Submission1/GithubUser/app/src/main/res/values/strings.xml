@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Github User</string>
+
+    <string name="txt_profile">Profile</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_location">Location</string>
+    <string name="txt_company">Company</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_following">Following</string>
+    <string name="txt_followers">Followers</string>
+    <string name="txt_repository">Repository</string>
+    <string name="value_follow">0</string>
+    <string name="value_place">Not Set</string>
+    <string name="txt_follow">Follow</string>
+    <string name="txt_unfollow">Unfollow</string>
+    <string name="hint_search">Search Username </string>
+
+    <string name="txt_dark_mode">Dark Mode</string>
+
+    <string name="txt_share_profile">Share Profile…</string>
+
+    <string name="txt_toast_network">No Network Connection</string>
+
+    <string name="txt_loading">Loading…</string>
+
+    <string name="txt_search">Search</string>
+    <string name="txt_share">Share</string>
+    <string name="txt_setting">Setting</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SharedPreference App</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">No Handphone</string>
+    <string name="age">Age</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="save">Save</string>
+    <string name="love">Love Someone?</string>
+    <string name="change">Change</string>
+    <string name="dummy_name">Nicola Alivant</string>
+    <string name="dummy_email">nyanni38@gmail.com</string>
+    <string name="dummy_number">845123</string>
+    <string name="dummy_age">30</string>
+    <string name="dummy_is_love">IsLoveSomeone</string>
+</resources>
